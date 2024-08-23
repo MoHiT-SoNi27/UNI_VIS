@@ -134,11 +134,11 @@ const Visualizer = () => {
         </button>
         <div className="input-array mb-2">
           <label className="mr-2">Input Array (comma-separated):</label>
-          <input
+          <input 
             type="text"
             value={inputArray}
             onChange={handleInputChange}
-            className="border p-1"
+            className="border p-1 text-black"
             disabled={isSorting}
           />
           <button onClick={handleSubmit} className="bg-green-500 text-white px-4 py-1 rounded ml-2 hover:bg-green-800" disabled={isSorting}>
