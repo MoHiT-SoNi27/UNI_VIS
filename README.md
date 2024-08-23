@@ -124,7 +124,7 @@ Feel free to explore and interact with the different algorithms to see how they 
 
 ## Video Explanation
 
-![Video](</frontend/images/Unicode-A Algorithm Visualizer - Google Chrome 2024-08-23 20-17-02.mp4>)
+![Click to see video tutorial](<https://github.com/user-attachments/assets/c890fafd-700d-45f7-a23a-35e883dc1bec>)
 
 
 - [Acknowledgment](<https://vitejs.dev/>)
